@@ -35,6 +35,6 @@ Currently a Data Engineer / BI Developer at **Innolytix**, Karachi.
 ### 📫 Contact
 - LinkedIn: [linkedin.com/in/muzzammil-ahmed2](https://www.linkedin.com/in/muzzammil-ahmed2)
 - Email: [muzzammil.ahmed835@gmail.com](mailto:muzzammil.ahmed835@gmail.com)
-- Portfolio: coming soon
+- Portfolio: [muzzammilahmed2.github.io](https://muzzammilahmed2.github.io)
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuzzammilAhmed2&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="150" />
