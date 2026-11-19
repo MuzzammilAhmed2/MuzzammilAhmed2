@@ -25,7 +25,7 @@ Currently a Data Engineer / BI Developer at **Innolytix**, Karachi.
 
 | Project | What it is |
 |---|---|
-| **BankSphere AI** 🔒 | Governed AI for KYC & compliance in banking on Azure: ID OCR, watchlist screening, risk scoring, an officer desk with grounded, cited AI answers, four-eyes approval, and a hash-chained audit trail. *Private repo, walkthrough on request.* |
+| [**BankSphere AI**](https://muzzammilahmed2.github.io/work/banksphere-ai/) 🔒 | Governed AI for KYC & compliance in banking on Azure: ID OCR, watchlist screening, risk scoring, an officer desk with grounded, cited AI answers, four-eyes approval, and a hash-chained audit trail. *Private repo: [case study & guided tour](https://muzzammilahmed2.github.io/work/banksphere-ai/), code walkthrough on request.* |
 | [scd-datawarehousing](https://github.com/MuzzammilAhmed2/scd-datawarehousing) | Near-real-time CDC into Snowflake (NiFi → S3 → Snowpipe), with SCD Type 1 & Type 2 built on Streams and Tasks |
 | [data_engineering_project_redfin](https://github.com/MuzzammilAhmed2/data_engineering_project_redfin__dataanalytics) | Airflow on EC2 → S3 raw / transform zones → Snowpipe → Snowflake, using Redfin housing data |
 | [python-ETL-pipeline-with-airflow-on-AWS](https://github.com/MuzzammilAhmed2/python-ETL-pipeline-with-airflow-on-AWS) | Daily Airflow DAG: OpenWeatherMap API → pandas transform → S3 |
@@ -37,4 +37,4 @@ Currently a Data Engineer / BI Developer at **Innolytix**, Karachi.
 - Email: [muzzammil.ahmed835@gmail.com](mailto:muzzammil.ahmed835@gmail.com)
 - Portfolio: [muzzammilahmed2.github.io](https://muzzammilahmed2.github.io)
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuzzammilAhmed2&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="150" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzzammil-ahmed2) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muzzammilahmed2.github.io)
